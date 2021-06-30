@@ -8,4 +8,4 @@ Analyze the data of 4,000 past Kickstarter projects to uncover some market trend
 - The variance of the number of backers.
 - The standard deviation of the number of backers.
 
-![2014](/Statistical-Analysis-Kickstater/2014.jpg)
+![2014](Statistical-Analysis-Kickstater/2014.jpg)
