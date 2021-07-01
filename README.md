@@ -1,6 +1,13 @@
 # Statistical Analysis to Kickstater Crowdfunding Service
-VBA scripts to analize stock market data sorting stocks for one year and output ticker symbol, change for opening and closing, and total stock volume.
-Analyze the data of 4,000 past Kickstarter projects to uncover some market trends. Evaluate the following for successful campaigns, and then for unsuccessful campaigns:
+VBA scripts that analyze the data of 4,000 past Kickstarter projects to uncover some market trends. 
+
+Analize stock market data sorting stocks for one year and output the following information:
+- The ticker symbol.
+- Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+- The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+- The total stock volume.
+
+Evaluate the following for successful campaigns, and then for unsuccessful campaigns:
 - Greatest % increase.
 - Greatest % decrease.
 - Greatest total volume.
